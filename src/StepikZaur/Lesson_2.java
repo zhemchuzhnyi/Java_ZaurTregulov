@@ -1,6 +1,6 @@
 package StepikZaur;
 
-public class Lesson2 {
+public class Lesson_2 {
     public static void main(String[] args) {
 
 //        System.out.println("Welcome to the first lesson!!!");

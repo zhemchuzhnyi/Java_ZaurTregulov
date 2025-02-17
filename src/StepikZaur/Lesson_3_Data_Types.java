@@ -1,6 +1,6 @@
 package StepikZaur;
 
-public class Lesson3_Data_Types {
+public class Lesson_3_Data_Types {
     public static void main(String[] args) {
 
         byte  b1 = 10;

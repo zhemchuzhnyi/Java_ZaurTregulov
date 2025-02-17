@@ -1,6 +1,6 @@
 package StepikZaur;
 
-public class Lesson6 {
+public class Lesson_6 {
     public static void main(String[] args) {
 
         int a = 3;
