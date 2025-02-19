@@ -22,7 +22,7 @@ public class Lesson_7_1 {
 
         char c = 'a';
         int i = 10;
-        System.out.println(c + i++);
+        System.out.println(c + i);
 
     }
 }
