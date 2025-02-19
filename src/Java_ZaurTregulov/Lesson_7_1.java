@@ -1,4 +1,4 @@
-package StepikZaur;
+package Java_ZaurTregulov;
 // последовательность вывода на экран
 
 public class Lesson_7_1 {

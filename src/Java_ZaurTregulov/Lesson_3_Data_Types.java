@@ -1,4 +1,4 @@
-package StepikZaur;
+package Java_ZaurTregulov;
 
 public class Lesson_3_Data_Types {
     public static void main(String[] args) {
