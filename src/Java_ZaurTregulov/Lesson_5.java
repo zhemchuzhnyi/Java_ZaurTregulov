@@ -18,7 +18,7 @@ public class Lesson_5 {
         //a = b = c = 18; - все значения будут равны 18
         //код читается справа на лево
 
-        System.out.println();
+        System.out.println(c);
 
 
 

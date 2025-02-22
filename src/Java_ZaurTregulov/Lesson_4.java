@@ -64,7 +64,7 @@ public class Lesson_4 {
         // может стоять вначале (префикс), в конце(постфикс)
 
         int x = 5;
-        int y = 3;
+        int y = 4;
         int z = x - y++;
 
         System.out.println(z);

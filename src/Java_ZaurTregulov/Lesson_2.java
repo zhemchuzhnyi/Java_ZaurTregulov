@@ -20,7 +20,7 @@ public class Lesson_2 {
 //System.out.println();
 //System.out.println("ghjklm");
 
-System.out.println("                Рубаи");
+System.out.println("               Рубаи");
 System.out.println("Много лет размышлял я над жизнью земной.");
 System.out.println("Непонятного нет для меня под луной.");
 System.out.println("Мне известно, что мне ничего не известно!");

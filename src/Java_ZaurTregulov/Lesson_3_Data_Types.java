@@ -128,7 +128,7 @@ public class Lesson_3_Data_Types {
     char p1 = 'a';
     char p2 = 250;
     char p3 = '\u6587';
-    char p4 = 'Й';
+    char p4 = 'У';
 
     System.out.println(p1);
     System.out.println(p2);
